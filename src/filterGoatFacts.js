@@ -22,6 +22,7 @@ export const filterGoatFacts = facts => {
     
     // console.log(number_input.value + " - " + text_input.value);
     // if input a word and text then filter the sentence (if both are non empty)
+
     let filteredFacts = facts;
     if (number_input.value.length !== 0 && text_input.value.length !== 0) {
       // console.log(facts);
