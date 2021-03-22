@@ -66,5 +66,7 @@
     "not ie <= 9",
     "last 2 versions"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
 }
